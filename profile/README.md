@@ -2,7 +2,7 @@
 
 Bem-vindo à organização oficial da **Stoot Digital** no GitHub.
 
-Aqui centralizamos nossos projetos, bibliotecas internas, ferramentas e iniciativas open source.
+Aqui centralizamos nossos projetos, bibliotecas internas e ferramentas.
 
 ---
 
