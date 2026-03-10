@@ -15,7 +15,6 @@ Nossos projetos envolvem:
 - Desenvolvimento Web
 - Automação de processos
 - Integrações de sistemas
-- Cloud e infraestrutura
 - Ferramentas internas
 
 ---
@@ -33,40 +32,9 @@ Nesta organização você encontrará diferentes tipos de projetos:
 
 Cada repositório possui sua própria documentação com detalhes de uso e desenvolvimento.
 
----
-
-## 👨‍💻 Contribuição
-
-Caso você faça parte da equipe e deseje contribuir:
-
-1. Crie uma branch a partir de `main` ou `develop`
-2. Faça commits claros e objetivos
-3. Abra um Pull Request
-4. Aguarde revisão
-
-Boas práticas:
-
-- Commits descritivos
-- Código documentado
-- Testes quando aplicável
-
----
-
-## 🔐 Segurança
-
-Caso você encontre alguma vulnerabilidade ou problema de segurança, **não abra uma issue pública**.
-
-Entre em contato diretamente com:
-
-📧 joao@stootdigital.com.br
-
----
-
 ## 📫 Contato
 
 🌐 Website: https://stootdigital.com.br 
-<!-- 📧 Email: contato@empresa.com 
-💼 LinkedIn: https://linkedin.com/company/empresa -->
 
 ---
 
@@ -74,7 +42,3 @@ Entre em contato diretamente com:
 
 Cada repositório possui sua própria licença.  
 Consulte o arquivo `LICENSE` dentro de cada projeto.
-
----
-
-⭐ Se você utiliza ou contribui com nossos projetos, considere deixar uma estrela!
